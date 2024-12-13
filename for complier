@@ -1,0 +1,3 @@
+pyside6-uic MainWindow.ui -o ui_main.py
+pyside6-uic authorization_and_registration.ui -o ui_auth_reg.py
+pyside6-uic form.ui -o ui_form.py
